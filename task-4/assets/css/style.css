@@ -1,0 +1,13 @@
+/* js olmadan sadece bu formada deyismek oldu */
+p{
+    font-size: 20px;
+}
+
+.P326{
+    color: blue;
+}
+
+p:nth-child(1) .last{
+    color: red;
+}
+
